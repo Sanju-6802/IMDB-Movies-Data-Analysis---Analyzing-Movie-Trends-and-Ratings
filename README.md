@@ -5,7 +5,7 @@ The analysis includes various data visualization techniques, statistical analysi
 
 The analysis covers a range of topics, including the most popular genres, the highest-rated movies, the most successful directors and actors, and the impact of various factors on movie ratings. The project aims to provide a comprehensive view of the movie industry and help producers and distributors make informed decisions.
 
-The project is built using Python and various data analysis libraries, including NumPy, Pandas, and Matplotlib. The frontend is built using HTML, CSS, and JavaScript.
+The project is built using Python and various data analysis libraries, including NumPy, Pandas, and Matplotlib.
 
 This project is open source, and contributions are welcome. It is our hope that this project will contribute to the improvement of the movie industry by providing valuable insights and information to producers, distributors, and analysts.
 
